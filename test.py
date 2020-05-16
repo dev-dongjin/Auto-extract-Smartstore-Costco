@@ -5,7 +5,6 @@ import telegram
 from apscheduler.schedulers.blocking import BlockingScheduler
 
 
-token = '1001744474:AAEYkSP8P9mIUcsPT_Pzx8pPIbKpuw1Pr_8'
 bot = telegram.Bot(token=token)
 sched = BlockingScheduler()
 
