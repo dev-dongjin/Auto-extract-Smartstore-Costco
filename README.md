@@ -1,0 +1,1 @@
+# Auto-extract-Smartstore-Costco
